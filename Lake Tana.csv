@@ -1,0 +1,16 @@
+Year,Label,Parent,Value
+2010-2020,Lake Tana,,38.9
+2010-2020,Gross Inflow,Lake Tana,19.4
+2010-2020,Net Inflow,Lake Tana,18.5
+2010-2020,DS,Lake Tana,1
+2010-2020,P,Gross Inflow,19.4
+2010-2020,Landscape ET,Net Inflow,9.4
+2010-2020,Exploitable Water,Net Inflow,9.1
+2010-2020,Rainfall ET,Landscape ET,8.1
+2010-2020,Incremental ET,Landscape ET,1.3
+2010-2020,Available Water,Exploitable Water,8.5
+2010-2020,Reserved Flow,Exploitable Water,0.6
+2010-2020,Managed Water,Available Water,3.9
+2010-2020,Utilizable Water,Available Water,4.6
+2010-2020,Non-Recoverable Flow,Managed Water,0.6
+2010-2020,Incremental ET (Managed),Managed Water,3.3
