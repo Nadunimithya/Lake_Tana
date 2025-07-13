@@ -3,7 +3,7 @@ import plotly.graph_objects as go
 from dash import Dash, dcc, html
 
 # Load your CSV
-file_path = r'C:\Users\N.Madurasinghe\OneDrive - CGIAR\Naduni\Lake_Tana\\Lake Tana.csv'
+file_path = r'https://github.com/Nadunimithya/Lake_Tana/blob/main/Lake_tana.py'
 df = pd.read_csv(file_path)
 
 # Ensure 'Value' is numeric
