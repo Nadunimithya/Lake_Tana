@@ -105,6 +105,7 @@ def create_sunburst():
 # Initialize Dash app
 app = Dash(__name__)
 app.title = "Lake Tana Water Flow"
+server = app.server 
 
 # App layout optimized for space
 app.layout = html.Div([
